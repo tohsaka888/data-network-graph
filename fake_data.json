@@ -1,0 +1,624 @@
+{
+  "errorCode": "200",
+  "errorMessage": "操作成功",
+  "success": true,
+  "data": {
+    "entities": [
+      {
+        "id": "asset3164162914467053581",
+        "name": "法人基本信息_演示",
+        "label": "asset",
+        "description": "全部法人相关的信息表"
+      },
+      {
+        "id": "000001009",
+        "name": "市经信局",
+        "label": "department",
+        "description": null
+      },
+      {
+        "id": "196",
+        "name": "172.168.30.66test",
+        "label": "database",
+        "description": null
+      },
+      {
+        "id": null,
+        "name": "t_jgdm_mock",
+        "label": "table",
+        "description": null
+      },
+      {
+        "id": "term3163750924023988225",
+        "name": "法人",
+        "label": "terminology",
+        "description": "法人是具有民事权利能力和民事行为能力，依法独立享有民事权利和承担民事义务的组织。法人的本质是法人能够与自然人同样具有民事权利能力，成为享有权利、负担义务的民事主体。《民法典》以法人成立目的的不同为标准，将法人分为营利法人、非营利法人和特别法人。"
+      },
+      {
+        "id": "asset_field3164162914467053582",
+        "name": "统一社会信用代码",
+        "label": "assetfield",
+        "description": null
+      },
+      {
+        "id": "asset_field3164162914467053583",
+        "name": "组织机构代码",
+        "label": "assetfield",
+        "description": null
+      },
+      {
+        "id": "asset_field3164162914467053584",
+        "name": "机构名称脱敏",
+        "label": "assetfield",
+        "description": null
+      },
+      {
+        "id": "asset_field3164162914467053585",
+        "name": "机构名称",
+        "label": "assetfield",
+        "description": null
+      },
+      {
+        "id": "asset_field3164162914467053586",
+        "name": "行政区域代码",
+        "label": "assetfield",
+        "description": null
+      },
+      {
+        "id": "asset_field3164162914467053587",
+        "name": "行政区域",
+        "label": "assetfield",
+        "description": null
+      },
+      {
+        "id": "asset_field3164162914467053588",
+        "name": "经济行业代码",
+        "label": "assetfield",
+        "description": null
+      },
+      {
+        "id": "asset_field3164162914467053589",
+        "name": "经济行业",
+        "label": "assetfield",
+        "description": null
+      },
+      {
+        "id": "asset_field3164162914467053590",
+        "name": "经济行业大类",
+        "label": "assetfield",
+        "description": null
+      },
+      {
+        "id": "model3163750924023988253",
+        "name": "法人基本信息",
+        "label": "model",
+        "description": "法人基本信息由市场主体信息（含个体工商户）、机关、事业单位基本信息和全省社会组织登记信息抽取关键字段信息聚合生成，快照形态。"
+      },
+      {
+        "id": "property3163750924023988254",
+        "name": "单位或企业名称",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988255",
+        "name": "统一社会信用代码",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988257",
+        "name": "经济类型",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988258",
+        "name": "经济类型代码",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988266",
+        "name": "所在地行政区划代码",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988267",
+        "name": "所在地行政区划名称",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988273",
+        "name": "行业名称",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988274",
+        "name": "行业代码",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "model3163750924023988228",
+        "name": "市场主体基本信息",
+        "label": "model",
+        "description": "市场主体基本信息由隶属企业信息、企业吊销信息、企业注销信息、个体户吊销信息、个体户注销信息、市场主体信息（含个体工商户）和个体经营者信息实体聚合生成，快照形态。"
+      },
+      {
+        "id": "property3163750924023988229",
+        "name": "主体名称",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988230",
+        "name": "统一社会信用代码",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988233",
+        "name": "经济类型",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988234",
+        "name": "经济类型代码",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988235",
+        "name": "行业名称",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988236",
+        "name": "行业代码",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988239",
+        "name": "所在地行政区划代码",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "property3163750924023988240",
+        "name": "所在地行政区划名称",
+        "label": "property",
+        "description": null
+      },
+      {
+        "id": "data_meta3163750924023992964",
+        "name": "行政处罚决定书文号",
+        "label": "datameta",
+        "description": "行政处罚决定书文号。"
+      },
+      {
+        "id": "data_meta3163750924023992966",
+        "name": "注册/开办资金币种代码",
+        "label": "datameta",
+        "description": "注册/开办资金币种代码。"
+      },
+      {
+        "id": "data_meta3163750924023992982",
+        "name": "行政处罚唯一标识",
+        "label": "datameta",
+        "description": "全省行政处罚唯一标识。"
+      },
+      {
+        "id": "data_meta3163750924023993002",
+        "name": "统一社会信用代",
+        "label": "datameta",
+        "description": "法人和其他组织的“数字身份证”，是管理和经营过程中法人和其他组织身份识别的手段。"
+      },
+      {
+        "id": "data_meta3163750924023993004",
+        "name": "法人名称/字号",
+        "label": "datameta",
+        "description": "由法人登记管理部门核准注册、备案或批准的法人名称。"
+      },
+      {
+        "id": "data_meta3163750924023993008",
+        "name": "住所",
+        "label": "datameta",
+        "description": "由法人登记管理部门核准、注册、备案或批准的法人首脑机关、主要办事机构或核心组织的所在地所在地地址。"
+      },
+      {
+        "id": "data_meta3163750924023993010",
+        "name": "宗旨和业务范围",
+        "label": "datameta",
+        "description": "法人登记管理部门核发的法人登记证书或批文上的经营范围、职责、宗旨和业务范围、公益活动业务范围等内容。"
+      },
+      {
+        "id": "data_meta3163750924023993016",
+        "name": "组织机构代码",
+        "label": "datameta",
+        "description": "由组织机构代码管理部门根据全国组织机构代码编码规则，赋予法人的组织机构代码号。"
+      },
+      {
+        "id": "data_meta3163750924023993097",
+        "name": "经济类型代码",
+        "label": "datameta",
+        "description": "按不同资本（资金）来源和资本组合方式划分经济组织和其他组织机构的类别代码"
+      },
+      {
+        "id": "data_meta3163750924023993101",
+        "name": "行政区划代码",
+        "label": "datameta",
+        "description": "县级及县级以上的各级地区代码"
+      },
+      {
+        "id": "codeinfo3163750924023988747",
+        "name": "单位主管部门代码表",
+        "label": "codeinfo",
+        "description": null
+      },
+      {
+        "id": "codeinfo3163750924023989443",
+        "name": "行政区划代码表",
+        "label": "codeinfo",
+        "description": null
+      },
+      {
+        "id": "term3164162914467053578",
+        "name": "统一社会信用代码",
+        "label": "terminology",
+        "description": "统一社会信用代码是一组长度为18位的用于法人和其他组织身份识别的代码。统一社会信用代码由国家标准委发布。统一社会信用代码制度是以公民身份号码和组织机构代码为基础的主体标识代码制度，包括公民统一社会信用代码、法人和其他组织统一社会信用代码。\n\n统一社会信用代码查询流程：登录国家企业信用信息公示系统-输入公司及企事业单位名称-就可以查询。\n\n自2015年10月1日开始，强制性国家标准GB32100-2015《法人和其他组织统一社会信用代码编码规则》将 企业的营业执照号、组织机构代码以及税务登记证号进行三证合一"
+      },
+      {
+        "id": "term3164162914467053579",
+        "name": "组织机构代码",
+        "label": "terminology",
+        "description": "组织机构代码是对中华人民共和国内依法注册、依法登记的机关、企事业单位、社会团体，以及其他组织机构颁发一个在全国范围内唯一的、始终不变的代码标识。国家质检总局负责组织机构代码的管理工作。\n\n如同居民的身份证一样，组织机构代码证是组织机构在社会经济活动中统一赋予的单位身份证。组织机构代码系统覆盖范围广泛，对申领代码单位的资质审核也有数字档案(档案数字化)作为凭证，可以动态追溯每一个组织机构的历史发展变化。\n\n从2016年1月1日起，各地质监机构不再向机关、事业单位、社会团体及其他依法成立的机构发放和更换组织机构"
+      },
+      {
+        "id": "term3164162914467053580",
+        "name": "经济类型",
+        "label": "terminology",
+        "description": "企业经济类型共分9个类别，分别是国有经济、集体经济、私营经济、个体经济、联营经济、股份制、外商投资、港澳台投资与其他经济类。我国按照新的标准将我国企业经济成份划分为9种类型。\n\n　　国有经济：是指生产资料归国家所有的一种经济类型，是社会主义公有制经济的重要组成部分。主要企业包括中央和地方各级国家机关、事业单位和社会团体使用国有资产投资举办的企业，也包括实行企业化经营，国家不再核拨经费或核拨部分经费的事业单位和从事经营性活动的社会团体，以及上述企业、事业单位和社会团体使用自有资金投资举办的企业。\n\n　　集体经"
+      },
+      {
+        "id": "term3164162914467053591",
+        "name": "行政区划",
+        "label": "terminology",
+        "description": "（一）全国分为省、自治区、直辖市；\n（二）省、自治区分为自治州、县、自治县、市；\n（三）县、自治县分为乡、民族乡、镇。\n直辖市和较大的市分为区、县。自治州分为县、自治县、市。\n自治区、自治州、自治县都是民族自治地方。国家在必要时得设立特别行政区。在特别行政区内实行的制度按照具体情况由全国人民代表大会以法律规定。\n目前中国有34个省级行政区，包括23个省、5个自治区、4个直辖市、2个特别行政区。在历史上和习惯上，各省级行政区都有简称。省级人民政府驻地称省会（首府），中央人民政府所在地是首都。北京是中国的首都。"
+      }
+    ],
+    "edges": [
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "000001009",
+        "name": null
+      },
+      {
+        "fromId": "196",
+        "toId": "asset3164162914467053581",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "null",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "term3163750924023988225",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "asset_field3164162914467053582",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "asset_field3164162914467053583",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "asset_field3164162914467053584",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "asset_field3164162914467053585",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "asset_field3164162914467053586",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "asset_field3164162914467053587",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "asset_field3164162914467053588",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "asset_field3164162914467053589",
+        "name": null
+      },
+      {
+        "fromId": "asset3164162914467053581",
+        "toId": "asset_field3164162914467053590",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053584",
+        "toId": "property3163750924023988254",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988253",
+        "toId": "property3163750924023988254",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053585",
+        "toId": "property3163750924023988254",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053582",
+        "toId": "property3163750924023988255",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988253",
+        "toId": "property3163750924023988255",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053589",
+        "toId": "property3163750924023988257",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988253",
+        "toId": "property3163750924023988257",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053588",
+        "toId": "property3163750924023988258",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988253",
+        "toId": "property3163750924023988258",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053586",
+        "toId": "property3163750924023988266",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988253",
+        "toId": "property3163750924023988266",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053587",
+        "toId": "property3163750924023988267",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988253",
+        "toId": "property3163750924023988267",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053589",
+        "toId": "property3163750924023988273",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988253",
+        "toId": "property3163750924023988273",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053588",
+        "toId": "property3163750924023988274",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988253",
+        "toId": "property3163750924023988274",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053584",
+        "toId": "property3163750924023988229",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988228",
+        "toId": "property3163750924023988229",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053585",
+        "toId": "property3163750924023988229",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053582",
+        "toId": "property3163750924023988230",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988228",
+        "toId": "property3163750924023988230",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053589",
+        "toId": "property3163750924023988233",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988228",
+        "toId": "property3163750924023988233",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053588",
+        "toId": "property3163750924023988234",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988228",
+        "toId": "property3163750924023988234",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053589",
+        "toId": "property3163750924023988235",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988228",
+        "toId": "property3163750924023988235",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053588",
+        "toId": "property3163750924023988236",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988228",
+        "toId": "property3163750924023988236",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053586",
+        "toId": "property3163750924023988239",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988228",
+        "toId": "property3163750924023988239",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053587",
+        "toId": "property3163750924023988240",
+        "name": null
+      },
+      {
+        "fromId": "model3163750924023988228",
+        "toId": "property3163750924023988240",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053582",
+        "toId": "data_meta3163750924023993002",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053584",
+        "toId": "data_meta3163750924023993004",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053585",
+        "toId": "data_meta3163750924023993004",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053586",
+        "toId": "data_meta3163750924023993101",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053588",
+        "toId": "data_meta3163750924023993097",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053583",
+        "toId": "data_meta3163750924023993016",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053582",
+        "toId": "data_meta3163750924023992964",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053582",
+        "toId": "data_meta3163750924023992982",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053582",
+        "toId": "data_meta3163750924023992966",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053582",
+        "toId": "data_meta3163750924023993008",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053582",
+        "toId": "data_meta3163750924023993010",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053586",
+        "toId": "codeinfo3163750924023989443",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053588",
+        "toId": "codeinfo3163750924023988747",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053582",
+        "toId": "term3164162914467053578",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053583",
+        "toId": "term3164162914467053579",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053586",
+        "toId": "term3164162914467053591",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053588",
+        "toId": "term3164162914467053580",
+        "name": null
+      },
+      {
+        "fromId": "asset_field3164162914467053589",
+        "toId": "term3164162914467053580",
+        "name": null
+      }
+    ]
+  }
+}
