@@ -7,7 +7,7 @@ specifiers:
   '@types/react-dom': 18.0.6
   d3: ^7.6.1
   eslint: 8.20.0
-  eslint-config-next: 12.2.3
+  eslint-config-next: 12.3.1
   next: 12.2.3
   react: 18.2.0
   react-dom: 18.2.0
@@ -25,7 +25,7 @@ devDependencies:
   '@types/react': 18.0.15
   '@types/react-dom': 18.0.6
   eslint: 8.20.0
-  eslint-config-next: 12.2.3_he2ccbldppg44uulnyq4rwocfa
+  eslint-config-next: 12.3.1_he2ccbldppg44uulnyq4rwocfa
   typescript: 4.7.4
 
 packages:
@@ -81,8 +81,8 @@ packages:
     resolution: {integrity: sha512-2lWKP5Xcvnor70NaaROZXBvU8z9mFReePCG8NhZw6NyNGnPvC+8s+Cre/63LAB1LKzWw/e9bZJnQUg0gYFRb2Q==}
     dev: false
 
-  /@next/eslint-plugin-next/12.2.3:
-    resolution: {integrity: sha512-B2e8Yg1MpuLsGxhCx4rU8/Tcnr5wFmCx1O2eyLXBPnaCcsFXfGCo067ujagtDLtWASL3GNgzg78U1SB0dbc38A==}
+  /@next/eslint-plugin-next/12.3.1:
+    resolution: {integrity: sha512-sw+lTf6r6P0j+g/n9y4qdWWI2syPqZx+uc0+B/fRENqfR3KpSid6MIKqc9gNwGhJASazEQ5b3w8h4cAET213jw==}
     dependencies:
       glob: 7.1.7
     dev: true
@@ -1064,8 +1064,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /eslint-config-next/12.2.3_he2ccbldppg44uulnyq4rwocfa:
-    resolution: {integrity: sha512-xAQqAqwa2bu9ZMRypz58ym4tNCo22Wc6LuoLpbpf3yW5c4ZkVib9934AgGDDvh2zKrP56Z6X0Pp6gNnuuZzcRw==}
+  /eslint-config-next/12.3.1_he2ccbldppg44uulnyq4rwocfa:
+    resolution: {integrity: sha512-EN/xwKPU6jz1G0Qi6Bd/BqMnHLyRAL0VsaQaWA7F3KkjAgZHi4f1uL1JKGWNxdQpHTW/sdGONBd0bzxUka/DJg==}
     peerDependencies:
       eslint: ^7.23.0 || ^8.0.0
       typescript: '>=3.3.1'
@@ -1073,7 +1073,7 @@ packages:
       typescript:
         optional: true
     dependencies:
-      '@next/eslint-plugin-next': 12.2.3
+      '@next/eslint-plugin-next': 12.3.1
       '@rushstack/eslint-patch': 1.1.4
       '@typescript-eslint/parser': 5.30.7_he2ccbldppg44uulnyq4rwocfa
       eslint: 8.20.0
@@ -1081,7 +1081,7 @@ packages:
       eslint-import-resolver-typescript: 2.7.1_afl3vkhn63baibzal45igheroq
       eslint-plugin-import: 2.26.0_w3h2x6a7zgcj3scdfl3yk2yqgq
       eslint-plugin-jsx-a11y: 6.6.1_eslint@8.20.0
-      eslint-plugin-react: 7.30.1_eslint@8.20.0
+      eslint-plugin-react: 7.31.8_eslint@8.20.0
       eslint-plugin-react-hooks: 4.6.0_eslint@8.20.0
       typescript: 4.7.4
     transitivePeerDependencies:
@@ -1205,8 +1205,8 @@ packages:
       eslint: 8.20.0
     dev: true
 
-  /eslint-plugin-react/7.30.1_eslint@8.20.0:
-    resolution: {integrity: sha512-NbEvI9jtqO46yJA3wcRF9Mo0lF9T/jhdHqhCHXiXtD+Zcb98812wvokjWpU7Q4QH5edo6dmqrukxVvWWXHlsUg==}
+  /eslint-plugin-react/7.31.8_eslint@8.20.0:
+    resolution: {integrity: sha512-5lBTZmgQmARLLSYiwI71tiGVTLUuqXantZM6vlSY39OaDSV0M7+32K5DnLkmFrwTe+Ksz0ffuLUC91RUviVZfw==}
     engines: {node: '>=4'}
     peerDependencies:
       eslint: ^3 || ^4 || ^5 || ^6 || ^7 || ^8
